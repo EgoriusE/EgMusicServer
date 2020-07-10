@@ -1,0 +1,39 @@
+### Жив ли сервер
+GET http://{{host}}/api/
+Accept: application/json
+
+
+### Регистрация
+POST http://{{host}}/api/sign_up
+Content-Type: application/json
+
+{
+  "name": "{{name}}",
+  "email":"{{email}}",
+  "password": "123"
+}
+
+### Аутенфикация (возвращает токен)
+POST http://{{host}}/api/sign_in
+Content-Type: application/json
+Authorization: Basic {{email}} 123
+
+
+### Редактирование профиля
+PUT http://{{host}}/users/{{email}}
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "name": "ddds",
+  "email":"{{email}}",
+  "icon_path": "sasadf"
+}
+
+### Вся информация о пользователе
+GET http://{{host}}/users/{{email}}
+Content-Type: application/json
+
+### Отозвать токен
+DELETE http://{{host}}/api/sign_in
+Authorization: Bearer {{token}}

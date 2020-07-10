@@ -1,0 +1,422 @@
+GET http://127.0.0.1:5000/groups/-316.6074798816951
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121853.200.json
+
+###
+
+GET http://127.0.0.1:5000/groups
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121849.200.json
+
+###
+
+GET http://127.0.0.1:5000/artists/-825.1651464218128
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121845.200.json
+
+###
+
+GET http://127.0.0.1:5000/artists
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121827.200.json
+
+###
+
+GET http://127.0.0.1:5000/albums
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121240.200.json
+
+###
+
+GET http://127.0.0.1:5000/albums/52
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121237.200.json
+
+###
+
+GET http://127.0.0.1:5000/artists/803.8096233668603
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121225.200.json
+
+###
+
+GET http://127.0.0.1:5000/artists
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121222.200.json
+
+###
+
+GET http://127.0.0.1:5000/groups/-316.6074798816951
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121216.200.json
+
+###
+
+GET http://127.0.0.1:5000/groups
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T121157.200.json
+
+###
+
+GET http://127.0.0.1:5000/group_songs/1
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T115236.500.html
+
+###
+
+GET http://127.0.0.1:5000/groups/-316.6074798816951
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T115233.200.json
+
+###
+
+GET http://127.0.0.1:5000/group_songs/1
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T114947.500.html
+
+###
+
+GET http://127.0.0.1:5000/group_songs/1
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T114922.500.html
+
+###
+
+GET http://127.0.0.1:5000/group_songs/1
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T114853.500.html
+
+###
+
+GET http://{{host}}/group_songs/1
+Accept: application/json
+Authorization: Bearer {{token}}
+
+###
+
+GET http://127.0.0.1:5000/group_songs/1
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T114826.500.html
+
+###
+
+GET http://127.0.0.1:5000/group_songs/1
+
+<> 2020-06-19T114816.401.json
+
+###
+
+GET http://127.0.0.1:5000/groups/-316.6074798816951
+Accept: application/json
+Authorization: Bearer ivDAapqkEJ/nZXv6k9F/Y8gyI+vIudYP
+
+<> 2020-06-19T114812.200.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_in
+Authorization: Basic aa 123
+Content-Type: application/json
+
+<> 2020-06-19T114756.200.json
+
+###
+
+GET http://127.0.0.1:5000/groups/-316.6074798816951
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T114749.401.json
+
+###
+
+GET http://127.0.0.1:5000/groups/-316.6074798816951
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020225.200.json
+
+###
+
+GET http://127.0.0.1:5000/groups
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020217.200.json
+
+###
+
+GET http://127.0.0.1:5000/artists/803.8096233668603
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020213.200.json
+
+###
+
+GET http://127.0.0.1:5000/artists
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020201.200.json
+
+###
+
+GET http://127.0.0.1:5000/artists/143.46883197075203
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020158.404.html
+
+###
+
+GET http://127.0.0.1:5000/artists
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020154.200.json
+
+###
+
+GET http://127.0.0.1:5000/songs/19
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020146.200.json
+
+###
+
+GET http://127.0.0.1:5000/songs
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020137.200.json
+
+###
+
+GET http://127.0.0.1:5000/songs
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T020112.200.json
+
+###
+
+GET http://127.0.0.1:5000/songs
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015948.500.html
+
+###
+
+GET http://127.0.0.1:5000/albums/52
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015939.200.json
+
+###
+
+GET http://127.0.0.1:5000/albums
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015931.200.json
+
+###
+
+GET http://127.0.0.1:5000/albums
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015919.200.json
+
+###
+
+GET http://127.0.0.1:5000/albums
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015857.200.json
+
+###
+
+GET http://127.0.0.1:5000/albums/Terry
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015844.404.html
+
+###
+
+GET http://127.0.0.1:5000/albums
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015832.200.json
+
+###
+
+GET http://127.0.0.1:5000/albums
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015814.500.html
+
+###
+
+GET http://127.0.0.1:5000/albums
+Accept: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+<> 2020-06-19T015621.500.html
+
+###
+
+PUT http://127.0.0.1:5000/users/aa
+Content-Type: application/json
+Authorization: Bearer Ni8xj09RSx6MG1DWOjczq+aBbrOFcHls
+
+{
+  "name": "ddds",
+  "email":"aa",
+  "icon_path": "sasadf"
+}
+
+<> 2020-06-19T015613.200.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_in
+Authorization: Basic aa 123
+Content-Type: application/json
+
+<> 2020-06-19T015555.200.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_in
+Authorization: Basic aa darina
+Content-Type: application/json
+
+<> 2020-06-19T015547.401.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_up
+Content-Type: application/json
+
+{
+  "name": "aa",
+  "email":"aa",
+  "password": "123"
+}
+
+<> 2020-06-19T015543.201.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_up
+Content-Type: application/json
+
+{
+  "name": "Darina",
+  "email":"drina7f@sobaka.ru",
+  "password": "darina"
+}
+
+<> 2020-06-19T015515.400.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_up
+Content-Type: application/json
+
+{
+  "name": "Darina",
+  "email":"drina7f@sobaka.ru",
+  "password": "darina"
+}
+
+<> 2020-06-19T015506.400.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_in
+Authorization: Basic Darina darina
+Content-Type: application/json
+
+<> 2020-06-19T015453.401.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_in
+Authorization: Basic main34 123
+Content-Type: application/json
+
+<> 2020-06-19T015405.401.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_in
+Authorization: Basic main34 123
+Content-Type: application/json
+
+<> 2020-06-19T015400.401.json
+
+###
+
+GET http://127.0.0.1:5000/songs
+Accept: application/json
+Authorization: Bearer c3NTeOhH61JGTB+6JGIOGk5gWA/vItH8
+
+<> 2020-06-19T015353.401.json
+
+###
+
+POST http://127.0.0.1:5000/api/sign_up
+Content-Type: application/json
+
+{
+  "name": "Darina",
+  "email":"drina7f@sobaka.ru",
+  "password": "darina"
+}
+
+<> 2020-06-18T095219.201.json
+
+###
+

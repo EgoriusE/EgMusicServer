@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "country": "+232", 
+      "desc": "Any element of a tuple can be accessed in constant time.", 
+      "icon_path": "C:\\Users\\Floral\\Dev\\Go\\lexovisaurus", 
+      "name": "560.2364356311446"
+    }, 
+    {
+      "country": "+269", 
+      "desc": "Atoms are used within a program to denote distinguished values.", 
+      "icon_path": "C:\\Users\\Colon\\Dev\\Java\\euoplocephalus", 
+      "name": "-507.7411439422872"
+    }, 
+    {
+      "country": "+964", 
+      "desc": "Type classes first appeared in the Haskell programming language.", 
+      "icon_path": "C:\\Users\\Adiana\\Development\\haXe\\glib", 
+      "name": "834.2910295448253"
+    }, 
+    {
+      "country": "+970", 
+      "desc": "The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.", 
+      "icon_path": "C:\\Users\\Pellitories\\Dev\\Smalltalk\\rebbachisaurus", 
+      "name": "981.0564933096525"
+    }, 
+    {
+      "country": "+240", 
+      "desc": "Erlang is known for its designs that are well suited for systems.", 
+      "icon_path": "C:\\Users\\Jug\\Dev\\Ruby\\maxakalisaurus", 
+      "name": "-83.50841517599974"
+    }, 
+    {
+      "country": "+5997", 
+      "desc": "I don't even care.", 
+      "icon_path": "C:\\Users\\Flocoon\\Development\\R\\emausaurus", 
+      "name": "-282.51576504936793"
+    }, 
+    {
+      "country": "+856", 
+      "desc": "The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.", 
+      "icon_path": "C:\\Users\\Amberous\\Development\\PowerShell\\iguanodon", 
+      "name": "-960.4656682201396"
+    }, 
+    {
+      "country": "+1684", 
+      "desc": "Tuples are containers for a fixed number of Erlang data types.", 
+      "icon_path": "C:\\Users\\Bayard\\Development\\Dart\\saltopus", 
+      "name": "373.08600981749896"
+    }, 
+    {
+      "country": "+962", 
+      "desc": "Where are my pants?", 
+      "icon_path": "C:\\Users\\Downless\\Dev\\Rust\\maudlin", 
+      "name": "-257.7640141122266"
+    }, 
+    {
+      "country": "+297", 
+      "desc": "Any element of a tuple can be accessed in constant time.", 
+      "icon_path": "C:\\Users\\Goalposts\\Dev\\C Shell\\gasparinisaura", 
+      "name": "652.010418601885"
+    }, 
+    {
+      "country": "+595", 
+      "desc": "The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.", 
+      "icon_path": "C:\\Users\\Didie\\Dev\\Lisp\\muttaburrasaurus", 
+      "name": "-374.70230179033797"
+    }, 
+    {
+      "country": "+52", 
+      "desc": "Its main implementation is the Glasgow Haskell Compiler.", 
+      "icon_path": "C:\\Users\\Adown\\Development\\Assembly\\equijubus", 
+      "name": "509.1991412817747"
+    }, 
+    {
+      "country": "+56", 
+      "desc": "Atoms are used within a program to denote distinguished values.", 
+      "icon_path": "C:\\Users\\Lunchroom\\Development\\Go\\dromiceiomimus", 
+      "name": "1.026313798440924"
+    }, 
+    {
+      "country": "+1808", 
+      "desc": "Atoms are used within a program to denote distinguished values.", 
+      "icon_path": "C:\\Users\\Burrower\\Dev\\Common Lisp\\spartan", 
+      "name": "-21.60649583101076"
+    }, 
+    {
+      "country": "+233", 
+      "desc": "It is also a garbage-collected runtime system.", 
+      "icon_path": "C:\\Users\\Deek\\Dev\\Dylan\\leptoceratops", 
+      "name": "516.2374274884946"
+    }, 
+    {
+      "country": "+49", 
+      "desc": "In 1989 the building was heavily damaged by fire, but it has since been restored.", 
+      "icon_path": "C:\\Users\\Amour\\Development\\Awk\\zealous", 
+      "name": "305.9713009559541"
+    }, 
+    {
+      "country": "+212", 
+      "desc": "In 1989 the building was heavily damaged by fire, but it has since been restored.", 
+      "icon_path": "C:\\Users\\Unprematureness\\Dev\\haXe\\liliensternus", 
+      "name": "-629.1632601477277"
+    }, 
+    {
+      "country": "+993", 
+      "desc": "Ports are created with the built-in function open_port.", 
+      "icon_path": "C:\\Users\\Epurate\\Development\\Dylan\\microceratops", 
+      "name": "-884.1590199914575"
+    }, 
+    {
+      "country": "+249", 
+      "desc": "The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.", 
+      "icon_path": "C:\\Users\\Tastier\\Development\\Lua\\monolophosaurus", 
+      "name": "-825.1651464218128"
+    }, 
+    {
+      "country": "+31", 
+      "desc": "Initially composing light-hearted and irreverent works, he also wrote serious, sombre and religious pieces beginning in the 1930s.", 
+      "icon_path": "C:\\Users\\Disazo\\Dev\\JavaScript\\shamosaurus", 
+      "name": "803.8096233668603"
+    }
+  ]
+}

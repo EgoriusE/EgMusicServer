@@ -1,0 +1,12 @@
+### получение всех песен
+GET http://{{host}}/songs
+Accept: application/json
+Authorization: Bearer {{token}}
+###
+
+### получение одной песни по id
+GET http://{{host}}/songs/19
+Accept: application/json
+Authorization: Bearer {{token}}
+###
+

@@ -1,0 +1,12 @@
+### получение всех альбмов
+GET http://{{host}}/albums
+Accept: application/json
+Authorization: Bearer {{token}}
+###
+
+### получение одного альбома по id
+GET http://{{host}}/albums/52
+Accept: application/json
+Authorization: Bearer {{token}}
+###
+

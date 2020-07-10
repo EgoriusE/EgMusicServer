@@ -1,0 +1,45 @@
+### получение всех артистов
+GET http://{{host}}/artists
+Accept: application/json
+Authorization: Bearer {{token}}
+
+###
+
+### получение одной артиста по имени
+GET http://{{host}}/artists/-825.1651464218128
+Accept: application/json
+Authorization: Bearer {{token}}
+
+
+
+
+
+###
+### получение всех групп
+GET http://{{host}}/groups
+Accept: application/json
+Authorization: Bearer {{token}}
+
+###
+
+### получение одной группы по имени
+GET http://{{host}}/groups/-316.6074798816951
+Accept: application/json
+Authorization: Bearer {{token}}
+
+###
+
+
+
+
+
+
+
+
+
+
+### Получить все песни группы
+#GET http://{{host}}/group_songs/1
+#Accept: application/json
+#Authorization: Bearer {{token}}
+
